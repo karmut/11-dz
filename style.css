@@ -1,0 +1,49 @@
+* {
+    color: white;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+
+
+
+.bg {
+    background-color: blue;
+    height: 400px;
+    width: 390px;
+    border-radius: 25px;
+    padding-top: 25px;
+    border: 3px solid black ;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: black;
+    display: block;
+    width: 300px;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    margin-left: 42px;
+    font-weight: 500;
+    border-radius: 20px;
+
+    
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 35px;
+
+}
+
+.text {
+    margin-bottom: 50px;
+}
+
+.price {
+    font-weight: 500;
+    margin-bottom: 35px;
+    font-size: 47px;
+}
